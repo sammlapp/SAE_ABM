@@ -1,0 +1,12 @@
+steps: 500 
+self-bias: 0.5 
+num agents: 33 
+rg strength: 10 
+so strength: 10 
+repeats: 2 
+avg speed: 0.00030000000000000003 
+sd speed: 5.9999999999999995e-05 
+min speed: 0.0003 
+avg temp: 4 
+sd temp: 2 
+

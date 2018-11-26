@@ -1,0 +1,8 @@
+this is if teams can only share during one tenth of the 500 step process, which timing is the most useful? It appears that sharing at the very beginning and at the middle are the most useful, in isolation. (How about together?)
+
+
+Default parameters, with
+pComm = 0.2
+Range = 0, mean = 100 for KAI
+
+'steps: 500 \nself-bias: 0 \nnum agents: 33 \nrg strength: 10 \nso strength: 10 \nrepeats: 4 \navg speed: 1 \nsd speed: 0.5 \nmin speed: 0.0001 \navg temp: 1 \nsd temp: 0.5 \n

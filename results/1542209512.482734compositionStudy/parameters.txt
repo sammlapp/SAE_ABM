@@ -1,0 +1,16 @@
+steps: 100 
+self-bias: 0 
+teamSizes = [32,16,8]
+nAgentsPerTeam = [8,6,4,3,2,1]
+
+num dimensions: 32 
+rg strength: 10 
+so strength: 10 
+repeats: 8 
+avg speed: 0.01 
+sd speed: 0.0007 
+min speed: 0.0001 
+avg temp: 1 
+sd temp: 0.8 
+roughness: 1 
+
